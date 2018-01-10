@@ -12,5 +12,5 @@ cron { 'run-puppet':
 
 file { '/tmp/hello.txt':
   ensure => file,
-  content => "hello, asdfasfasd\n",
+  content => "hello, Nguyen Minh Khoa!\n",
 }
